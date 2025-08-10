@@ -1,14 +1,14 @@
 [
   {
-    "username": "nora",
-    "password": "nora123"
+    "username": "admin",
+    "password": "admin123"
   },
   {
-    "username": "god",
-    "password": "god"
+    "username": "alice",
+    "password": "solarhunter"
   },
   {
-    "username": "god",
-    "password": "god"
+    "username": "bob",
+    "password": "sunpower2025"
   }
 ]
